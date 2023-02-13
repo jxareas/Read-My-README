@@ -7,7 +7,7 @@
   </a>
 
 <h1 align = "center">
-<b><i>Read-my-README</i></b>
+<b><i>Read-My-README</i></b>
 </h1>
     <!-- Add/Remove categories depending on your project -->
   <p align="center">
@@ -26,9 +26,10 @@
   </p>
 </div>
 
+<!-- Here goes the project description -->
 **Read-My-README** is a simple tidy README template loosely based on the [*Best-README-Template*](https://github.com/othneildrew/Best-README-Template).
 
-It is originally tailored to be used by Mobile Projects, but it can be easily customized to fit other different use cases.
+It is originally tailored to be used in Mobile Projects, but it can be easily customized to fit other different use cases.
 
 Still Feeling Uninspired? Here are some samples that use this README-Style with certain customizations:
 * [*Xpensor*: A Local Android Expense Tracker](https://github.com/jxareas/xpensor)
