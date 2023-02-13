@@ -2,6 +2,7 @@
 <br />
 <div align="center">
   <a href="#">
+   <!-- Replace this logo for a custom official logo -->
     <img src="./readme-assets/logos/official_logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,6 +13,7 @@
   <p align="center">
     A tidy and polished README template for your projects!
     <br />
+    <!-- IMPORTANT NOTE: If you want to append emojis you'll need to add the '-' sign before and after the header, as shown below:  -->
     <a href="#-screenshots-">Screenshots</a>
     ·
     <a href="#-requirements-">Requirements</a>
@@ -28,11 +30,18 @@
 
 It is originally tailored to be used by Mobile Projects, but it can be easily customized to fit other different use cases.
 
+Still Feeling Uninspired? Here are some samples that use this README-Style with certain customizations:
+* [*Xpensor*: A Local Android Expense Tracker](https://github.com/jxareas/xpensor)
+* [*LaunchPad*: An App about Space Events](https://github.com/Tonnie-Dev/LaunchPad)
+* [*Goalie*: A Qatar 2022 App](https://github.com/jxareas/Goalie)
+
 ## 🕹️ UI/UX 🕹️
 
-This section is all about detailing the UI/UX of your project.
+This section is all about detailing the UI/UX of your project, their themes and animations.
 
-Screen 1	|	Screen 2	|	Screen 3 | Screen 4	|
+The animations and interactive content from this section should be placed inside of [`readme-assets/gifs`](./readme-assets/gifs).
+
+Animation 1	|	Animation 2	|	Animation 3 | Animation 4	|
 :------:|:---------------------:|:-----------------------------:|:-------------:|
 ![](readme-assets/images/screenshot_placeholder.png)  |  ![](readme-assets/images/screenshot_placeholder.png)  |  ![](readme-assets/images/screenshot_placeholder.png)  |  ![](readme-assets/images/screenshot_placeholder.png)
 
@@ -41,6 +50,8 @@ Screen 1	|	Screen 2	|	Screen 3 | Screen 4	|
 ## 📷 Screenshots 📷
 
 Here you can add your projects's screenshots, reference the Design System used (Material / Cupertino / Custom) and the different UI Modes (Night / Dark).
+
+The screenshots from this section should be placed inside of [`readme-assets/images`](./readme-assets/images/)
 
 | Screen 1  | Screen 2 | Screen 3 |
 | ------------- | ------------- |  ------------- |
@@ -86,11 +97,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## 🪶 Author(s) 🪶
 
+
 Your Name - @twitter_usernamme - email@example.com
+
+**Note:** If there are many contributors, you might consider using:  
+- [Contributors List](https://github.com/mgechev/github-contributors-list)
+- [contrib.rocks](https://contrib.rocks/preview?repo=angular%2Fangular-ja)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📜 License 📜
-
+<!-- Change this license for the one used in your project -->
 ```
 MIT License
 
