@@ -135,5 +135,6 @@ SOFTWARE.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!-- This is a custom version of the Read-My-README template, by Jon Areas, 
+found at: https://github.com/jxareas/read-my-readme -->
 
